@@ -17,7 +17,7 @@ if (div2 === 0) {
     divisionResult = div1 / div2;
 }
 
-// Outputs terminal (CMD) par show honge
+
 console.log("Addition (" + add1 + " + " + add2 + ") = " + additionResult);
 console.log("Subtraction (" + sub1 + " - " + sub2 + ") = " + subtractionResult);
 console.log("Multiplication (" + mul1 + " * " + mul2 + ") = " + multiplicationResult);
